@@ -25,7 +25,7 @@ Click the pencil icon to edit
 
 ![pencil](https://cloud.githubusercontent.com/assets/8389648/15445468/f0910442-1eb3-11e6-9f52-fefcc1c63031.png)
 
-####Add a line to the README explaining that you've created this repo as part of a web literacy training. Check out this [markdown cheatsheet]_(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)_ and experiment with different styles you can apply using markdown. Have fun!
+> ####Add a line to the README explaining that you've created this repo as part of a web literacy training. >Check out this [markdown cheatsheet]_(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)_ >and experiment with different styles you can apply using markdown. >Have fun!
 
 ## Save and publish your changes
 
